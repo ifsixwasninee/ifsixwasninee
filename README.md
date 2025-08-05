@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal eportfolio,, that I am coding<br>    🌱 I’m currently learning about Operations Security and Cryptography<br>    📫 How to reach me: ctrlzmalcolm@gmail.com<br>    😄 Pronouns: He/Him<br>    ⚡ Fun fact: not sure yet<br>
+🔭 I’m currently working on my personal eportfolio,, that I am coding<br>    🌱 I’m currently learning about Operations Security and Cryptography<br>    📫 How to reach me: ctrlzmalcolm@gmail.com<br>    😄 Pronouns: He/Him<br>    ⚡ Fun fact:
 
 
 ## 🌐 Socials:
