@@ -1,6 +1,6 @@
 # About Me:
 
-🔭 I’m currently working on my personal eportfolio,, that I am coding<br>    😄 I’m currently learning about Operations Security and Cryptography<br>    📫 How to reach me: ctrlzmalcolm@gmail.com<br>  💫 Pronouns: He/Him<br>    
+🔭 I’m currently working on my personal eportfolio, coded in HTML, JS, & CSS <br>    😄 I’m currently learning about Operations Security and Cryptography<br>    📫 How to reach me: ctrlzmalcolm@gmail.com<br>  💫 Pronouns: He/Him<br>    
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@shitdns) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keon-nelson-82834728b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ctrlzmalcolm@gmail.com) 
